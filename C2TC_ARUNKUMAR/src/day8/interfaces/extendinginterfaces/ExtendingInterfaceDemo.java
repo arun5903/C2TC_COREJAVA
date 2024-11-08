@@ -15,7 +15,7 @@ public class ExtendingInterfaceDemo implements ChildInterface {
 		@SuppressWarnings("unused")
 		ExtendingInterfaceDemo ei=new ExtendingInterfaceDemo();
 		ei.print();
-		ei.show();
+		ei.show(); 
 	}
 	
 }
